@@ -2,3 +2,5 @@
 SVHN_google/test_32x32.mat
 SVHN_google/train_32x32.mat
 SVHN_google/SVHN_single_grey1.h5
+yolov3/data/yolov3.weights
+yolov3/data/yolov3.tf.data-00001-of-00002
